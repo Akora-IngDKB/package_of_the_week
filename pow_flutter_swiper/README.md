@@ -11,7 +11,7 @@ Checkout the animated video on the package made by the [Colombo Flutter Communit
 <table>
     <tr>
         <td><img src="shots/basic.gif" height=600em></td>
-        </td><img src="shots/pagination.gif" height=600em></td>
+        <td><img src="shots/pagination.gif" height=600em></td>
     </tr>
     <tr>
         <td><img src="shots/stack.gif" height=600em></td>
